@@ -38,13 +38,6 @@ body {
     padding: 20px 15px!important;
 }
 
-
-/* .bordered {
-                        border: 3px solid#fff;
-                        border-radius: 5px;
-                        padding: 7px 12px;
-                    } */
-
 .active {
     background-color: rgba(136, 20, 48, 0.46);
 }
@@ -90,6 +83,16 @@ body {
 
 
 /* ----- navbar.end// ----- */
+
+
+/* ----- design ----- */
+
+#design {
+    margin-top: 100px;
+}
+
+
+/* ----- design.end// ----- */
 
 
 /* ----- contact ----- */
